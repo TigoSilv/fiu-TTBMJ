@@ -1,0 +1,16 @@
+index.html
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel= "stylesheet" href="style.css">
+        <title>VroomVroom</title>
+    </head>
+    <body>
+        
+        <video poster="need%20a%20lift.jpg" autoplay loop>
+        <source src= "blackandwhite.mp4" type= "video/mp4">
+        <source src="blackandwhite.webm" type= "video/webm">
+        </video>
+    </body>
+</html>

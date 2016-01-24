@@ -1,0 +1,39 @@
+
+body, html{
+    margin:0;
+    padding:0;
+}
+
+video {
+    position: fixed;
+    top: 0%;
+    left: 50%;
+    transform: translate(-50%, -1%);
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1;
+}
+
+
+
+.container {
+  background:#7f7f7f;
+  background:rgba(255,255,255,0.85);
+}
+
+h2 {
+color:#0099ff;
+font-weight:bold;
+}
+
+p {
+color:black;
+}
+
+.img-responsive {
+
+    width:250px;
+    height:250px;
+    border-radius:10%;
+    overflow:hidden;
+}
